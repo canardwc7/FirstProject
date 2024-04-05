@@ -1,0 +1,13 @@
+html { margin: 0; height: 100%; }
+body { margin: 0; height: 100%; }
+
+header { height: 200px; background-color: lightgreen; }
+	#logo { height: 150px; width: 150px; margin: 30px; border-radius: 100px; float: left; }
+	
+	#titre h1 { text-align: center; margin: auto; height:200px ; width: 75px; }
+
+    div { width: 25%; float: left; }
+	#photo {height: 200px;}
+	a {}
+
+p {}
